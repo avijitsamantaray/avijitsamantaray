@@ -45,6 +45,6 @@
 <a href="https://www.python.org/" target="blank" ><img align="center" src="https://github-production-user-asset-6210df.s3.amazonaws.com/63417798/239683143-90be51e4-1c48-4fa7-a6f1-60a170b82443.png" alt="python" width="40" height="40"/> </a> 
 <a href="https://reactjs.org/" target="blank" ><img align="center" src="https://github-production-user-asset-6210df.s3.amazonaws.com/63417798/239683161-fa745a43-3a9b-4261-95f4-cddc1f907350.png" alt="react" width="40" height="40"/> </a>
 <a href="https://github.com/" target="blank" ><img align="center" src="https://github-production-user-asset-6210df.s3.amazonaws.com/63417798/239684438-fee059c0-1e9d-4da5-8464-890ba7b5dde7.png" alt="Github" width="40" height="40"/> </a>
-<a href="https://www.instagram.com/avijit_samantaray/?igshid=MzNlNGNkZWQ4Mg%3D%3D" target="blank"><img align="center" src="https://github-production-user-asset-6210df.s3.amazonaws.com/63417798/239684810-9ffddd85-6217-401b-98bc-0a7278630db1.png" alt="Github" width="40" height="40"/> </a>
+<a href="https://code.visualstudio.com/" target="blank"><img align="center" src="https://github-production-user-asset-6210df.s3.amazonaws.com/63417798/239684810-9ffddd85-6217-401b-98bc-0a7278630db1.png" alt="Github" width="40" height="40"/> </a>
 
 
