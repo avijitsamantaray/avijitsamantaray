@@ -26,6 +26,8 @@
 <a href="https://www.youtube.com/channel/UCcaoJCzL4269RLHOkkmy7vw" target="blank"><img align="center" src="https://www.svgrepo.com/show/13671/youtube.svg" alt="avijitsamantaray8420" height="40" width="40" /></a>
 [<img align="center" alt="insta" width="40px" src="https://github-production-user-asset-6210df.s3.amazonaws.com/63417798/239685490-8277f51c-a99c-46a9-a556-72e46cd30d27.png" />](https://www.instagram.com/avijit_samantaray/?igshid=MzNlNGNkZWQ4Mg%3D%3D)
 
+[<img align="center" alt="insta" width="40px" src="https://github-production-user-asset-6210df.s3.amazonaws.com/63417798/239699626-46997d16-084c-43cf-9346-f012b94a83aa.png" />](https://avijitsamantaray.github.io/Avijit_porfolio/)
+
 
 
 
