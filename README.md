@@ -1,7 +1,7 @@
 
 <img align="center" alt="Coding" width="4000" height="400" src="https://github.com/avijitsamantaray/avijitsamantaray/assets/63417798/d5d2186f-9cd3-484e-a579-8e9604c3949b">
 <h1 align="center">Hi 👋, I'm Avijit Samantaray</h1>
-<h3 align="center">A passionate Pogramming lover</h3>
+<h3 align="center">A passionate Programming lover</h3>
 
 
 
