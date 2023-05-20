@@ -1,4 +1,5 @@
-![Header](./github-header-image.png)
+
+<img align="center" alt="Coding" width="4000" src="https://github.com/avijitsamantaray/avijitsamantaray/assets/63417798/2542cbaa-1ece-43b2-996e-eaec3e2f1c06">
 <h1 align="center">Hi 👋, I'm Avijit Samantaray</h1>
 <h3 align="center">A passionate Pogramming lover</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
