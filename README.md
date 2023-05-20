@@ -25,7 +25,7 @@
 <a href="https://linkedin.com/in/avijit-samantaray" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" alt="avijit-samantaray" height="40" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCcaoJCzL4269RLHOkkmy7vw" target="blank"><img align="center" src="https://www.svgrepo.com/show/13671/youtube.svg" alt="avijitsamantaray8420" height="40" width="40" /></a>
 <a href="https://www.instagram.com/avijit_samantaray/?igshid=MzNlNGNkZWQ4Mg%3D%3D" target="blank"><img align="center" src="https://github.com/avijitsamantaray/avijitsamantaray/assets/63417798/8277f51c-a99c-46a9-a556-72e46cd30d27" alt="avijitsamantaray8420" height="40" width="40" /></a>
-</p>
+
 
 
 
@@ -38,12 +38,12 @@
  <h2 align="left">Languages and Tools <img src="https://github.com/avijitsamantaray/avijitsamantaray/assets/63417798/e8c42451-473d-4359-b3b9-8079f348986a" alt="computer" width="40" height="40"align="center" /></h2>
 
 <img src="https://github.com/avijitsamantaray/avijitsamantaray/assets/63417798/09b2ab78-7686-4057-8886-00fd0f2da276" alt="css3" width="40" height="40"/> </a> 
-<a href="https://html.com/" target="_blank" rel="noreferrer"><img src="https://github.com/avijitsamantaray/avijitsamantaray/assets/63417798/cb04ad02-72d8-4ccc-9251-4d1e8db4ba65" alt="html5" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://github.com/avijitsamantaray/avijitsamantaray/assets/63417798/49e3c773-0328-42fa-bd2c-521c5f6587c9" alt="javascript" width="40" height="40"/> </a> 
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://github.com/avijitsamantaray/avijitsamantaray/assets/63417798/9618d8d4-34b4-4f07-85bc-e11dcd54eeec" alt="linux" width="40" height="40"/> </a> 
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://github.com/avijitsamantaray/avijitsamantaray/assets/63417798/90be51e4-1c48-4fa7-a6f1-60a170b82443" alt="python" width="40" height="40"/> </a> 
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://github.com/avijitsamantaray/avijitsamantaray/assets/63417798/fa745a43-3a9b-4261-95f4-cddc1f907350" alt="react" width="40" height="40"/> </a>
-<a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://github.com/avijitsamantaray/avijitsamantaray/assets/63417798/fee059c0-1e9d-4da5-8464-890ba7b5dde7" alt="Github" width="40" height="40"/> </a>
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://github.com/avijitsamantaray/avijitsamantaray/assets/63417798/9ffddd85-6217-401b-98bc-0a7278630db1" alt="Github" width="40" height="40"/> </a>
+<a href="https://html.com/" target="_blank" ><img src="https://github.com/avijitsamantaray/avijitsamantaray/assets/63417798/cb04ad02-72d8-4ccc-9251-4d1e8db4ba65" alt="html5" width="40" height="40"/> </a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="https://developer.mozilla.org/en-US/docs/Web/JavaScript" ><img src="https://github.com/avijitsamantaray/avijitsamantaray/assets/63417798/49e3c773-0328-42fa-bd2c-521c5f6587c9" alt="javascript" width="40" height="40"/> </a> 
+<a href="https://www.linux.org/" target="_blank"><img src="https://github.com/avijitsamantaray/avijitsamantaray/assets/63417798/9618d8d4-34b4-4f07-85bc-e11dcd54eeec" alt="linux" width="40" height="40"/> </a> 
+<a href="https://www.python.org/" target="_blank" ><img src="https://github.com/avijitsamantaray/avijitsamantaray/assets/63417798/90be51e4-1c48-4fa7-a6f1-60a170b82443" alt="python" width="40" height="40"/> </a> 
+<a href="https://reactjs.org/" target="_blank" ><img src="https://github.com/avijitsamantaray/avijitsamantaray/assets/63417798/fa745a43-3a9b-4261-95f4-cddc1f907350" alt="react" width="40" height="40"/> </a>
+<a href="https://github.com/" target="_blank" ><img src="https://github.com/avijitsamantaray/avijitsamantaray/assets/63417798/fee059c0-1e9d-4da5-8464-890ba7b5dde7" alt="Github" width="40" height="40"/> </a>
+<a href="https://code.visualstudio.com/" target="_blank"><img src="https://github.com/avijitsamantaray/avijitsamantaray/assets/63417798/9ffddd85-6217-401b-98bc-0a7278630db1" alt="Github" width="40" height="40"/> </a>
 
 
