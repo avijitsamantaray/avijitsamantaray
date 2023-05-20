@@ -2,7 +2,9 @@
 <img align="center" alt="Coding" width="4000" src="https://github.com/avijitsamantaray/avijitsamantaray/assets/63417798/2542cbaa-1ece-43b2-996e-eaec3e2f1c06">
 <h1 align="center">Hi 👋, I'm Avijit Samantaray</h1>
 <h3 align="center">A passionate Pogramming lover</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+
+
+<img align="right" alt="Coding" width="400" src="https://github.com/avijitsamantaray/avijitsamantaray/assets/63417798/f0680794-7bdf-4bee-a9f9-69b216a4b818">
 - 🌱 I’m currently learning **Qliksense and other BI tools**
 
 - 👯 I’m looking to collaborate on **BI Projects**
