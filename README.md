@@ -12,9 +12,9 @@
 <img align="right" alt="Coding" width="400" src="https://github.com/avijitsamantaray/avijitsamantaray/assets/63417798/f0680794-7bdf-4bee-a9f9-69b216a4b818">
 - 🌱 I’m currently learning **Qliksense and other BI tools**
 
-- 👯 I’m looking to collaborate on **BI Projects**
+- 👯 I’m looking to collaborate on **Development projects**
 
-- 💬 Ask me about **Python,Sql,Datawarehouse,WebDevelopment,BI tools**
+- 💬 Ask me about **Python,Sql,Datawarehouse,BI tools, Azure, Devops**
 
 - 📫 How to reach me **avijitsamantaraya@gmail.com**
 
